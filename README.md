@@ -3,6 +3,8 @@ Memory leak in godot TextEdit v3.2.1
 
 example project to reproduce the bug.
 
+![Screenshot_godot_memory_leak_2020-04-13_09-31-48.png](Screenshot_godot_memory_leak_2020-04-13_09-31-48.png)
+
 
 ## Bug
 
