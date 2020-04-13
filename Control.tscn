@@ -1,0 +1,15 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://TextEdit.gd" type="Script" id=1]
+
+[node name="Control" type="Control"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+
+[node name="TextEdit" type="TextEdit" parent="."]
+margin_left = 173.0
+margin_top = 31.0
+margin_right = 421.0
+margin_bottom = 384.0
+text = "some text"
+script = ExtResource( 1 )
