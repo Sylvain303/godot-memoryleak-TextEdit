@@ -1,5 +1,5 @@
 # godot-memoryleak-TextEdit
-Memory leak in godot TextEdit v3.2.1
+Memory leak in godot [TextEdit](https://docs.godotengine.org/en/3.2/classes/class_textedit.html) v3.2.1
 
 example project to reproduce the bug.
 
